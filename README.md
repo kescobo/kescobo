@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-I am a Senior Research Scientist in the Klepac-Ceraj lab at Wellesley College.
+I am an Assistant Professor at Tufts Medical Center.
 I study the human microbiome 💩 🚽 and its effect on brain 🧠 development in kids 👶.
 Feel free to [be in touch](https://blog.bonham.ch/contact/)!
 
-I also write open-source software for the [julia programming language](http://julialang.org/).
+I also write open-source software for the [julia programming language](http://julialang.org/)
+and host a podcast about the immune system called [Audiommunity](https://audiommunity.org).
 
 - 🔭 I’m currently working on tools for analyzing spatial transcriptomics data
   and graph representations of gut microbiome data
